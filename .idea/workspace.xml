@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a1eda3-13a1-4fdf-91b5-f5fe55838fc5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/background.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/background.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/corgi.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/corgi.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/nav-contact.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/nav-contact.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/nav-heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/nav-heart.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgs/nav-location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svgs/nav-location.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,36 +20,16 @@
     <splitter split-orientation="horizontal" split-proportion="0.64622974">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="600">
-                  <caret line="97" column="56" lean-forward="true" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+                <state relative-caret-position="277">
+                  <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="corgi.svg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/svgs/corgi.svg">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="logo.svg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/svgs/logo.svg">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="nav-contact.svg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/svgs/nav-contact.svg">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="nav-location.svg" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/svgs/nav-location.svg">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file leaf-file-name="mockup.png" pinned="false" current-in-tab="false">
+          <file leaf-file-name="mockup.png" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mockup.png">
               <provider selected="true" editor-type-id="images" />
             </entry>
@@ -67,8 +41,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="457">
-                  <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+                <state relative-caret-position="343">
+                  <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -111,6 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,11 +142,12 @@
       <updated>1531483890394</updated>
       <workItem from="1531483891904" duration="231000" />
       <workItem from="1531484249362" duration="5658000" />
+      <workItem from="1531499197262" duration="2594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5889000" />
+    <option name="totallyTimeSpent" value="8483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -204,6 +179,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="56" lean-forward="true" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svgs/corgi.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svgs/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svgs/nav-contact.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svgs/nav-location.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mockup.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -247,15 +251,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="97" column="56" lean-forward="true" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+        <state relative-caret-position="277">
+          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        <state relative-caret-position="343">
+          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
         </state>
       </provider>
     </entry>
