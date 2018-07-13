@@ -6,10 +6,11 @@ body {
   font-weight: 300;
   color: #111;
   background: #edeff0;
+  background-image: url('svgs/background.svg');
 }
 
 #container {
-  max-width: 960px;
+  max-width: 90%;
   background: #fff;
   margin: 0 auto;
   height: 100%; /* new line */
@@ -39,11 +40,18 @@ header {
 header nav {
   padding-bottom: 50px;
   text-align: left;
+  margin: 1em auto;
 }
 
 header nav ul li {
   display: inline-block;
   margin-right: 20px;
+}
+
+li {
+  list-style: none;
+  margin: .5em;
+  display: inline-block;
 }
 
 main {
@@ -59,4 +67,26 @@ footer {
   margin-top: 100px;
   padding-bottom: 30px;
   color: #ba8058;
+}
+
+#dogs {
+  margin: auto;
+  max-width: 680px;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+
+.dog {
+  margin: .5em auto;
+  position: relative;
+}
+
+.label {
+  position: absolute;
+  top:100%;
+  left: 0;
+  right:0;
+  margin: auto;
+  color: #C08E71;
 }
