@@ -118,13 +118,15 @@ p {
 }
 
 #circle,
-.dog-paw {
+.dog-paw,
+.text {
   transition: transform .5s ease-in-out;
   transform-origin: center center;
 }
 
 #logo-svg:hover #circle,
-#logo-svg:hover .dog-paw {
+#logo-svg:hover .dog-paw,
+#logo-svg:hover .text {
   transform: scale(1.3);
 }
 
