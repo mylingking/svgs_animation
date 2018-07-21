@@ -134,6 +134,10 @@ p {
   display: none;
 }
 
+#logo-text {
+  color: #E8AA85;
+}
+
 #svg-holder {
   display: none;
 }
