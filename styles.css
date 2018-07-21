@@ -29,8 +29,21 @@ a {
   font-weight: 700;
 }
 
-a:hover {
-  color: #111;
+.svgs-container {
+  padding: 2px;
+}
+
+.nav-svg,
+li,
+a {
+  transition: transform .3s ease-out;
+}
+
+li:hover .nav-svg,
+li:hover {
+  fill: tomato;
+  color: tomato;
+  transform: rotate(5deg) scale(1.1);
 }
 
 header {
@@ -89,6 +102,25 @@ main {
   right:0;
   margin: auto;
   color: #C08E71;
+}
+
+#logo-svg {
+  padding: 30px;
+}
+
+#main-nav {
+  padding-bottom: 12px;
+}
+
+#circle,
+.dog-paw {
+  transition: transform .5s ease-in-out;
+  transform-origin: center center;
+}
+
+#logo:hover #circle,
+#logo:hover .dog-paw {
+  transform: scale(1.3);
 }
 
 #svg-holder {
