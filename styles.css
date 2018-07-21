@@ -128,6 +128,10 @@ p {
   transform: scale(1.3);
 }
 
+.text {
+  display: none;
+}
+
 #svg-holder {
   display: none;
 }
@@ -146,6 +150,16 @@ p {
 
 #dog4 {
   color: #52595E;
+}
+
+@media (min-width: 425px) {
+  .text {
+    display: inline;
+  }
+
+  #logo-text {
+    display: none;
+  }
 }
 
 @media (min-width: 687px) {
