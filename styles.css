@@ -82,7 +82,11 @@ footer {
   color: #ba8058;
 }
 
-main {
+p {
+  display: block;
+}
+
+#dog-images {
   margin: auto;
   max-width: 680px;
   display: flex;
@@ -91,8 +95,9 @@ main {
 }
 
 .dogs {
-  margin: .5em auto;
+  margin: 1em auto;
   position: relative;
+  display: block;
 }
 
 .label {
@@ -118,8 +123,8 @@ main {
   transform-origin: center center;
 }
 
-#logo:hover #circle,
-#logo:hover .dog-paw {
+#logo-svg:hover #circle,
+#logo-svg:hover .dog-paw {
   transform: scale(1.3);
 }
 
@@ -141,4 +146,10 @@ main {
 
 #dog4 {
   color: #52595E;
+}
+
+@media (min-width: 687px) {
+  #container {
+    max-width: 70%;
+  }
 }
